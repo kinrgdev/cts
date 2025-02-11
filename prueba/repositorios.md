@@ -35,3 +35,4 @@ Fast-forward
  README.md | Bin 16 -> 15 bytes
  1 file changed, 0 insertions(+), 0 deletions(-)
 PS C:\Users\kinrg\Documents\workspace\cts> 
+PS C:\Users\kinrg\Documents\workspace\cts> gh repo edit --description "Repositorio puente para los ejercicios de CTS"
